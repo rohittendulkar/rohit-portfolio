@@ -27,7 +27,7 @@ const Header = () => (
 	>
 		<Container>
 			<Div1>
-				<Link href="/">
+				<Link href="#hero">
 					<a
 						style={{
 							display: "flex",
