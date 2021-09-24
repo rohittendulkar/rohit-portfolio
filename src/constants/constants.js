@@ -2,7 +2,7 @@ export const projects = [
 	{
 		title: "Know Your Neighbourhood",
 		description:
-			"Used Figma to design the application, used React.js to develop the frontend for the application, and used Spring Boot to develop the backend API for the application. This application allows users to find stores near them.",
+			"Used Figma for UI design, React.js for frontend development, and used Spring Boot for backend development of the API for the application. This application allows users to find stores near them.",
 		image: "/images/1.png",
 		tags: ["Figma", "React", "Spring Boot"],
 		source: "https://github.com/rohittendulkar/KnowYourNeighbourhood.git",
@@ -12,7 +12,7 @@ export const projects = [
 	{
 		title: "ABC Jobs",
 		description:
-			"Designed a UI using Axure, desgined a database and developed a job portal similar to LinkedIn in a series of projects, where users can register and apply for Jobs.",
+			"Designed a UI using Axure, designed a database and developed a job portal similar to LinkedIn in a series of projects, where users can register and apply for Jobs.",
 		image: "/images/2.png",
 		tags: ["Axure", "ERDPlus", "Struts", "JSP", "MySQL"],
 		source: "https://github.com/rohittendulkar/ABC-Jobs.git",
@@ -22,7 +22,7 @@ export const projects = [
 	{
 		title: "ABC Car Sales Web App",
 		description:
-			"Developed an application for users to list their used cars on sale.",
+			"Developed an application, using Spring MVC along with JSP. This application allows users to list their used cars on sale.",
 		image: "/images/3.png",
 		tags: ["Spring MVC", "JSP"],
 		source: "https://github.com/rohittendulkar/ABC-Cars.git",
@@ -32,7 +32,7 @@ export const projects = [
 	{
 		title: "AAA Hosting Website",
 		description:
-			"Developed an application for AAA Hosting Company on Liferay CMS, which is based on Spring MVC.",
+			"Developed an application for AAA Hosting Company using Liferay CMS, which is based on Spring MVC.",
 		image: "/images/4.png",
 		tags: ["Liferay"],
 		source: "https://github.com/rohittendulkar/AAA-Hosting.git",

@@ -1,5 +1,5 @@
 import React from "react";
-import { DiJava, DiMysql, DiReact } from "react-icons/di";
+import { DiJava, DiMysql, DiReact, DiWordpress } from "react-icons/di";
 import { FiFigma } from "react-icons/fi";
 import {
 	Section,
@@ -62,6 +62,16 @@ const Technologies = () => (
 					<ListParagraph>
 						Experience with <br />
 						Tools like Figma and Axure RP
+					</ListParagraph>
+				</ListContainer>
+			</ListItem>
+			<ListItem>
+				<DiWordpress size="3rem" />
+				<ListContainer>
+					<ListTitle>CMS</ListTitle>
+					<ListParagraph>
+						Experience with <br />
+						WordPress
 					</ListParagraph>
 				</ListContainer>
 			</ListItem>
