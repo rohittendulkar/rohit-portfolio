@@ -31,7 +31,11 @@ export default class MyDocument extends Document {
 		return (
 			<Html lang="en-GB">
 				<Head>
-					<title>Rohit Tendulkar-Portfolio</title>
+					<title>Rohit Tendulkar - Full Stack Web Developer</title>
+					<meta
+						content="I've been developing websites for 2 years straight. Get in touch with me to know more."
+						name="description"
+					/>
 					<link rel="icon" href="/favicon.ico" />
 					<link
 						href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
