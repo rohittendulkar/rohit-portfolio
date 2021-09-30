@@ -24,7 +24,7 @@ export const GridContainer = styled.section`
 export const BlogCard = styled.div`
 	border-radius: 10px;
 	box-shadow: 12px 12px 16px 0 rgba(0, 0, 0, 0.25),
-		-8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+		-8px -8px 12px 0 rgba(255, 255, 255, 0.25);
 	text-align: center;
 	width: 400px;
 	@media ${(props) => props.theme.breakpoints.sm} {
