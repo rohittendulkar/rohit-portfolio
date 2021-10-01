@@ -42,16 +42,25 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-	{ year: 2016, text: "Passed School" },
-	{ year: 2019, text: "Passed College and Joined Lithan" },
+	{
+		year: 2016,
+		text: "Cleared my 10th in Bombay School School. Participated in many Model United Nations to have a decent experience in interacting, communicating with people, and coming up with solutions.",
+	},
+	{
+		year: 2019,
+		text: "Passed Lord's Universal College of Science and Commerce and Joined Lithan Academy",
+	},
 	{
 		year: 2020,
 		text: "Already a Junior Level Developer with decent Project Management knowledge",
 	},
-	{ year: 2021, text: "Shared my projects with the world" },
+	{
+		year: 2021,
+		text: "Gaining experience and sharing my projects with the world",
+	},
 ];
 
 export const data = [
-	{ number: 4, text: "Open Source Projects" },
+	{ number: 7, text: "Public Repositories" },
 	{ number: 2, text: "Live Ecommerce Sites" },
 ];
